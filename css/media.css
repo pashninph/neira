@@ -223,30 +223,38 @@
         height: 550px;
     }
     .team__img--1 {
-        width: 48%;
+        width: 179px;
     }
     .team__img--2 {
-        width: 28%;
-        top: 50%;
+        width: 106px;
+        top: 308px;
         left: 0;
         transform: none;
+        z-index: 2;
     }
     .team__img--3 {
-        width: 51%;
+        width: 190px;
         top: auto;
         right: auto;
         bottom: 0;
-        left: 50%;
+        left: 40%;
         transform: translateX(-50%);
     }
     .team__img--4 {
-        width: 23%;
+        width: 86px;
+        bottom: 270px;
+        left: 0;
     }
     .team__img--5 {
-        width: 49%;
+        width: 185px;
+        left: auto;
+        bottom: 327px;
+        right: 0;
+        transform: none;
     }
     .team__img--6 {
-        width: 52%;
+        width: 195px;
+        bottom: 157px;
     }
     .team__men-name {
         font-size: 20px;
