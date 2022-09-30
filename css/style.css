@@ -156,6 +156,7 @@ ol {
 }
 
 .header__video-box {
+    user-select: none;
     display: flex;
     align-items: center;
     justify-content: center;
